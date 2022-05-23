@@ -4,7 +4,7 @@
     "description": "Migration utils for yii2",
     "keywords": [
         "yii2",
-		"migration"
+        "migration"
     ],
     "homepage": "",
     "license": "MIT",
@@ -17,8 +17,8 @@
     ],
     "require": {
         "php": ">=5.6",
-		"yiisoft/yii2": "~2.0.14",
-		"rick1906/megabike-utils": "*"
+        "yiisoft/yii2": "~2.0.14",
+        "rick1906/megabike-utils": "*"
     },
     "require-dev": {
     },
